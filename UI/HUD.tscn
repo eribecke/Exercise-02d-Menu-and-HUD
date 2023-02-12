@@ -12,8 +12,9 @@ anchor_bottom = 1.0
 script = ExtResource( 2 )
 
 [node name="Background" type="ColorRect" parent="."]
-margin_right = 1024.0
-margin_bottom = 40.0
+anchor_right = 1.0
+anchor_bottom = 1.0
+margin_bottom = -560.0
 color = Color( 0, 0, 0, 0.25098 )
 
 [node name="Background2" type="ColorRect" parent="."]
